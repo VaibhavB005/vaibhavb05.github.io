@@ -20,13 +20,12 @@ Aria’s academic journey includes extensive work on electroosmotic flow in micr
 His expertise extends to multiphysics modeling, turbulent flow computation, and the application of advanced CFD techniques to solve real-world engineering challenges. With a strong background in fluid-structure interactions and environmental modeling, Aria continues to push the boundaries of computational fluid dynamics research.
 
 Research Interests:
-
-    Large-eddy simulation (LES) of turbulent flows
-    Marine and riverine hydrokinetic energy systems
-    Particle transport in respiratory and environmental systems
-    Sediment transport and morphodynamics
-    Electroosmotic flow and microfluidics
-    Multiphysics modeling and high-performance computing
-    Environmental fluid mechanics and sustainable energy
+* Large-eddy simulation (LES) of turbulent flows
+* Marine and riverine hydrokinetic energy systems
+* Particle transport in respiratory and environmental systems
+* Sediment transport and morphodynamics
+* Electroosmotic flow and microfluidics
+* Multiphysics modeling and high-performance computing
+* Environmental fluid mechanics and sustainable energy
 
 Thank you for visiting my page! Feel free to explore
