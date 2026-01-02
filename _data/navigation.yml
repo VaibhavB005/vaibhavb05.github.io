@@ -22,14 +22,15 @@ main:
 
   - title: "Work Experience"
     url: /cv/
-  
-  - title: "CV"
-    # url: /cv/
-    url: /files/Resume_02012026.pdf
-
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "CV"
+    # url: /cv/
+  url: /files/Resume_02012026.pdf
+
+  
   # - title: "CV"
   #   url: /cv-json/
     
