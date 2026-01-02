@@ -19,7 +19,10 @@ main:
     
   # - title: "Blog Posts"
     # url: /year-archive/
-    
+
+  - title: "Work Experience"
+    url: /cv/
+  
   - title: "CV"
     # url: /cv/
     url: /files/Resume_02012026.pdf
