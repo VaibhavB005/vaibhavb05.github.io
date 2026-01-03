@@ -69,13 +69,27 @@ Work experience
   * Development of Mass-Spring-Damper model for Vibration reduction of Gripper-Actuator Mechanism (Ball Screw-drive)
   * Supervisor: Marcel Lorenz, [Dr. Uwe Frieß](https://publica.fraunhofer.de/entities/person/953ee7e7-f00e-483e-8e8b-e38bade92b83)
 
-* Hörmann Vehicle Engineering GmbH, Chemnitz
+* **Hörmann Vehicle Engineering GmbH, Chemnitz**
 <br> **Simulation Intern** - 08/2024 - 10/2024 - Full-time
 <br> **Working Student** - 11/2024 - 09/2025 - Part-time
   * Designed a cooling system for hhydrogen-powered Agricultural vehicle in project RAHD
   * Extensive calculation and design optimization for Radiator and System Design
   * Thermal calculation for Heat generation of Fuel-cell systems including Fuel-cell, Battery, and other auxiliary components
   * Designed and optimised a cooligns system for Primary and Auxiliary component circuits
+ 
+* **Assistant Manager**, [Bajaj Auto Ltd.](https://www.bajajauto.com/), Waluj, India
+  <br> 05/2022 - 09/2023 - Full-time
+* **Graduate Engineer**, [Bajaj Auto Ltd.](https://www.bajajauto.com/), Waluj, India
+  <br> 09/2021 - 04/2022 - Full-time
+  * Managed Export and Dispatch projects and operations for more than 30 countries in Commercial Vehicle Division.
+  * R1 Performance Ranking for both consecutive years.
+  * Won Gold Award in Cost category in CII National Kaizen competition 2023.
+  * Successfully implemented 2 new dispatch modes with optimum investment in existing facilities.
+  * Improved Productivity of SPLIT Assembly line by 125% using TPM tools
+  * 7 Smart Manufacturing projects to establish defect-proof system on All Export Assembly lines.
+  * 12 Safety, Health and Environment(SHE) Improvements projects to improve the working environment and sustainability.
+  * Utilised VAVE to efficiently reduce the cost of materials and assembly activities.
+  * Supervisor: Nitin R. Patil
 
 Certifications
 ======
