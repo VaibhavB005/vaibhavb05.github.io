@@ -57,10 +57,19 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-Certificates
+Certifications
 ======
+* [ML/AI for Fluid Dynamics: A Comprhensive training by Prof. Ricardo Vinuesa], FlowThermoLabs (Ongoing)
 * [Bootcamp on Battery Materials and Components: The Science Behind Next-Generation Energy Systems](https://lms.decibelslab.com/certificates/3tq0wuv1pj), DecibelLabs (November 2025)
-* 
+* [Turbomachinery CFD Simulations with Ansys CFX](https://www.udemy.com/certificate/UC-577774bc-a83f-452f-908c-4e49285e322f/), LearnCAE, Udemy (September 2025)
+* [F1 Aerodynamics](https://www.udemy.com/certificate/UC-b00a5d07-3300-4ddd-ba9f-314c669e361c/), Shubham Sangodkar, Ex-RedBull F1 Aerodynamics Engineer, Udemy (August 2025)
+* [Solidworks Weldments Professional](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-NCAZ7KXP2E), Dassault Systèmes SOLIDWORKS (December 2020)
+* [Solidworks Additive Manufacturing Associate](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-6EB825ZH3D), Dassault Systèmes SOLIDWORKS (September 2020)
+* [CSWA Mechanical Design Associate](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-ZLN5D7EWS6), Dassault Systèmes SOLIDWORKS (September 2020)
+* [MD101x: machine Dynamics with MATLAB](https://courses.edx.org/certificates/b7d39486d5694f998af2fe97229d3036), RWTH Aachen University, EdX (July 2020)
+* [Introduction to Programming with MATLAB](https://coursera.org/share/651c9154bc14e23e71e4dbe40c224112), Vanderbilt University, Coursera (June 2020)
+* [Multi-body Dynamics for Automotive Applications](https://s3.amazonaws.com/skill-lync-certificate-files/vaibhavbamnote-completion-certificate-FJi5b6DveBPpUxSj.jpg), Skill-Lync (January 2020)
+* [ENGR2000X: A Hands-on Introduction to Engineering Simulations (FEA, CFD)](https://courses.edx.org/certificates/a19be26e6f2f4c2d916b971dd8a7b98d), Cornell University, EdX (November 2019)
  
 Publications
 ======
