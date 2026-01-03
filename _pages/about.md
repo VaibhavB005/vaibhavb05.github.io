@@ -19,7 +19,7 @@ redirect_from:
 
 ## 👨🏻‍🔬 Professional Experience
 
-Currently, I am working as a **Research Scientist** at Fraunhofer ENAS exploring how to develop an *algorithm to automate parametric geomtry creation and meshing of power electronics modules*. \
+Currently, I am working as a **Research Scientist** at Fraunhofer ENAS exploring how to develop an *algorithm to automate parametric geomtry creation and meshing of power electronics modules*.
 
 Recently, I developed a parametrizable meshing algorithm using Python for FuelCell stacks to perform Multiphase Simulations in OpenFOAM as a part of my Thesis. The algorithm lets us generate the FuelCell stack geometry solely based on basic geomtric Inputs provided and uses that generated geometry to generate adaptive Mesh. It helpes reduce weeks of time in setting up the FuelCell Geomtry for Multiphase Simulations.
 
