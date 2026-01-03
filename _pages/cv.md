@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.Sc. in Advanced Manufacturing (Simulations), Technical University of Chemnitz, Germany 2023-2026
   * Grades: 1.92/4
   * Subjects: Applied Modelling and Simulation in Solid Mechanics, Composite Hybrid Structures, Additive Manufacturing, Digital manufacturing (Digital twins)
