@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-👨🏻‍💻 Research Assistant | Fraunhofer ENAS 
+👨🏻‍💻 Research Assistant @ Fraunhofer ENAS 
 
-🔬 Specialist in Multiphysics: I simulate the world across every domain—Structural, Thermal, Electrothermal, and Multiphase. 
+🔬 I simulate the world across every domain—Structural, Thermal, Electrothermal, and Multiphase. 
 
-🤖 Automating the Invisible: On a journey to turn complex simulation setups into "one-click" workflows.
+🤖 Automating the Invisible: On a journey to simplify complex Simulation setups
 
 Currently exploring: The fusion of AI in Simulations.
 
