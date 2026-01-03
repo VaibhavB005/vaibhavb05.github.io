@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
-👨🏻‍💻 I'm a Research Assistant at Fraunhofer ENAS.
+👨🏻‍💻 Research Assistant | Fraunhofer ENAS 
 
-🔬 My research interests are in the field Simulations(I mean all of it, Structures to Thermals to Electrothermals to Multiphase)!
+🔬 Specialist in Multiphysics: I simulate the world across every domain—Structural, Thermal, Electrothermal, and Multiphase. 
 
-🤖 I am growingly interested in making Simulations easier to setup and run.
+🤖 Automating the Invisible: On a journey to turn complex simulation setups into "one-click" workflows.
+
+Currently exploring: The fusion of AI in Simulations.
 
 # Selected Experience
 
