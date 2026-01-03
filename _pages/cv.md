@@ -29,7 +29,7 @@ Honors and Awards
 * **Manager Kaizen Award 2023**, Bajaj Auto Ltd. CVD Exports Divison
 * **Ranking Cluster 1 (2023)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
 * **Ranking Cluster 1 (2022)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
-**Endurance Race Rank 9** Team Black Mambra Racing, NIT Rourkela, mBAJA SAE India 2019
+* **Endurance Race Rank 9** Team Black Mambra Racing, NIT Rourkela, mBAJA SAE India 2019
 <!---
 Photo for Manager Kaizen to be added
 --> 
@@ -92,6 +92,24 @@ Work experience
   * 12 Safety, Health and Environment(SHE) Improvements projects to improve the working environment and sustainability.
   * Utilised VAVE to efficiently reduce the cost of materials and assembly activities.
   * Supervisor: Nitin R. Patil
+
+* **Mechanical Subsystem Member**, [Hyperloop India](https://www.linkedin.com/company/hyperloop-india/), SpaceX Hyperloop Competition team of BITS Pilani, India
+  <br> 09/2020 - 08/2021 - Part-time
+  * Designed the Stability subsystem for the Hyper-loop Pod, incorporating Sub-track, I-rail, and Wheel braking models to ensure stable deceleration.
+  * Achieved successful deceleration of ~5g with 55% I-rail, 30% Wheel, and 15% Subtrack Braking modules as a whole
+  * Assessed static and fatigue analysis to optimize stresses and deformations resulting from the Pitch, Roll, and Yaw of the Pod on impacting components (I-rail, Braking modules etc.)
+  * Supervisor: [Dr. M.S. Dasgupta](https://www.bits-pilani.ac.in/pilani/m-s-dasgupta/)
+ 
+* **Brakes Subsystem Member**, [Team Black Mamba Racing](https://www.linkedin.com/company/black-mamba-racing/), Baja SAE Team of NIT Roukela, India
+  <br> 09/2020 - 08/2021 - Part-time
+  * Technical Involvement:
+    * Represented the Baja SAE Team as the Brake Subsystem Member, achieving a top 10 rank in the Endurance Race of Baja SAE India 2019 Competition
+    * Conducted braking calculations, design, and structural/thermal analysis of the Brake system to meet targeted requirements.
+    * Validated & tested the pressure differences and force transmission in the brake system compared to theoretical calculations
+  * Management Involvement:
+    * Managed and presented Cost Management reports for Cost and Sale events during the event
+    * Conducted Orientation and Induction of team members
+  * Supervisor: [Prof. P.S. Balaji](https://scholar.google.co.in/citations?user=hz8jnooAAAAJ&hl=en)
 
 Certifications
 ======
