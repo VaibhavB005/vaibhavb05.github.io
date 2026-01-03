@@ -21,15 +21,15 @@ Currently exploring: The fusion of AI in Simulations.
 
 ## 👨🏻‍🔬 Professional Experience
 
-Currently, I am working as a **Research Assistant** at Fraunhofer ENAS exploring how to develop an *algorithm to automate parametric geometry creation and meshing of power electronics modules*.
+Currently, I am working as a Research Assistant at Fraunhofer ENAS exploring how to develop an algorithm to automate parametric geometry creation and meshing of power electronics modules.
 
-Recently, I developed a parametrizable meshing algorithm using Python for FuelCell stacks to perform Multiphase Simulations in OpenFOAM as a part of my Thesis. 
-* The algorithm lets us generate the FuelCell stack geometry solely based on basic geomtric Inputs provided and uses the generated geometry to create adaptive Mesh.
-* It helpes reduce weeks of time in setting up the FuelCell Geometry and Meshing for Multiphase Simulations.
+Recently, I developed a parametrizable meshing algorithm using Python for fuel cell stacks to perform multiphase simulations in OpenFOAM as a part of my thesis.
 
-During my Masters I have additionally worked on diverse projects in the field of Simulations which includes Digital twins of PCB Assembly system (Fraunhofer IWU), Digital twin of Cooling system for Hydrogen powered Agricultural vehicle
-(HVE GmbH) and many more independent projects to explore wide range of Simulation driven Engineering.
+    The algorithm lets us generate the fuel cell stack geometry solely based on basic geometric inputs provided and uses the generated geometry to create adaptive mesh.
 
+    It helps reduce weeks of time in setting up the fuel cell geometry and meshing for multiphase simulations.
+
+During my Master's I have additionally worked on diverse projects in the field of simulations which includes digital twins of PCB assembly system (Fraunhofer IWU), digital twin of cooling system for hydrogen-powered agricultural vehicle (HVE GmbH) and many more independent projects to explore wide range of simulation-driven engineering.
 
 I have submitted all of the publishable Projects in my [portfolio](https://vaibhavb005.github.io/portfolio/).
 Feel free to explore!!
