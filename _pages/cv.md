@@ -44,30 +44,38 @@ Skills
 
 Work experience
 ======
-* Research Assistant, Fraunhofer Institute for Electronic Nano Systems [(ENAS)](https://www.enas.fraunhofer.de/en/research_and_development_service/design_simulation_and_modeling.html), Chemnitz, Germany
-  <br> 10/2025 - Present
+* **Research Assistant**, Fraunhofer Institute for Electronic Nano Systems [(ENAS)](https://www.enas.fraunhofer.de/en/research_and_development_service/design_simulation_and_modeling.html), Chemnitz, Germany
+  <br> 10/2025 - Present - Part-time
   * Automation of complex electro-thermal simulation workflows for Power electronics assemblies in ANSYS using Python
   * Supervisor: [Kshitij Kolas](https://scholar.google.com/citations?user=g8EgrM8AAAAJ&hl=en)
 
-* Research Assistant, Professorship of Advanced Powertrains [(Professur Alternativ Fahrzeugantriebe)](https://www.tu-chemnitz.de/projekt/alf/content.php?view=start&lang=en), TU Chemnitz, Germany
-  <br> 05/2025 - Present
+* **Research Assistant**, Professorship of Advanced Powertrains [(Professur Alternativ Fahrzeugantriebe)](https://www.tu-chemnitz.de/projekt/alf/content.php?view=start&lang=en), TU Chemnitz, Germany
+  <br> 05/2025 - Present - Part-time
   * Development of Parametric Meshing algorithm for the Simulation of Fuel Cells with OpenFOAM
   * Python for parametric Stack Mesh generation
   * Multiphase simulation (Diffusivity models, Electrochemistry, Conjugate Heat Transfer)
   * Supervisor: [Marcus Schaedler](https://www.tu-chemnitz.de/projekt/alf/content.php?view=mitarbeiter_details&id=47&lang=en)
 
-* Research Assistant, Professorship of Lightweight Structures [(Professur Strukturleichtbau)](https://www.tu-chemnitz.de/mb/IST/index.php.en), TU Chemnitz, Germany
-  <br> 11/2024 - 05/2025
+* **Research Assistant**, Professorship of Lightweight Structures [(Professur Strukturleichtbau)](https://www.tu-chemnitz.de/mb/IST/index.php.en), TU Chemnitz, Germany
+  <br> 11/2024 - 05/2025 - Part-time
   * Conducted experimental vibration analyses on composite materials to study their dynamic behavior and damping properties.
   * Processed and analyzed measurement data in time-frequency domains(SFFT, Spectrogram) using Python and Image processing techniques to determine key damping parameters.
   * Successfully identified anomalies and defective components by comparing extracted spectrogram features.
   * Supervisor: [Matthias Klaerner](https://www.researchgate.net/profile/Matthias-Klaerner/2)
  
-* Research Assistant, Fraunhofer Institute for Machine Tools and Forming Technology [(IWU)](https://www.iwu.fraunhofer.de/), Chemnitz, Germany
-  <br> 10/2024 - 03/2025
+* **Research Assistant**, Fraunhofer Institute for Machine Tools and Forming Technology [(IWU)](https://www.iwu.fraunhofer.de/), Chemnitz, Germany
+  <br> 10/2024 - 03/2025 - Part-time
   * Modelled a digital twin of a high-dynamic robotic gripper in MATLAB/Simulink, optimizing the actuator's mass-spring-damper model to reduce vibrations and increase PCB assembly speed
   * Development of Mass-Spring-Damper model for Vibration reduction of Gripper-Actuator Mechanism (Ball Screw-drive)
   * Supervisor: Marcel Lorenz, [Dr. Uwe Frieß](https://publica.fraunhofer.de/entities/person/953ee7e7-f00e-483e-8e8b-e38bade92b83)
+
+* Hörmann Vehicle Engineering GmbH, Chemnitz
+<br> **Simulation Intern** - 08/2024 - 10/2024 - Full-time
+<br> **Working Student** - 11/2024 - 09/2025 - Part-time
+  * Designed a cooling system for hhydrogen-powered Agricultural vehicle in project RAHD
+  * Extensive calculation and design optimization for Radiator and System Design
+  * Thermal calculation for Heat generation of Fuel-cell systems including Fuel-cell, Battery, and other auxiliary components
+  * Designed and optimised a cooligns system for Primary and Auxiliary component circuits
 
 Certifications
 ======
