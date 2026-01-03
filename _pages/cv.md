@@ -39,7 +39,7 @@ Skills
 ======
 * Numerical Simulations
   * FEA (Structural, Thermal, Harmonic, Electrothermo-mechanical)
-  * CFD (Fluid structre interaction, Internal flows, Conjugate Heat Transfer)
+  * CFD (Fluid Structure interaction, Internal flows, Conjugate Heat Transfer)
   * Multiphase (Volume of Fluid (VOF), Eulerian-Eulerian, Discrete Phase Modelling (DPM), Eulerian Thin Film Modelling (ETFM))
 * Softwares
   * ANSYS Mechanical
@@ -54,10 +54,9 @@ Skills
   * Autodesk Fusion 360
   * PTC CREO  
 * Programming
-  * Python
+  * Python (PyTorch)
   * MATLAB
-  * C++
-  * PyTorch 
+  * C++ 
 
 Publications
 ======
