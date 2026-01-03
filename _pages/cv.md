@@ -57,7 +57,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-
+Certificates
+======
+* [Bootcamp on Battery Materials and Components: The Science Behind Next-Generation Energy Systems](https://lms.decibelslab.com/certificates/3tq0wuv1pj), DecibelLabs (November 2025)
+* 
+ 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
