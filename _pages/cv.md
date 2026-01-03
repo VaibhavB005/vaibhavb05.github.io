@@ -25,9 +25,9 @@ Education
 Honors and Awards
 ======
 * **Georgius-Agricola-Leistungsstipendium (Scholarship)**, Saxon State Ministry for Science, Culture and Tourism (Winter Semester 2025-2026)
-* **Gold Prize at CII National Kaizen Competition 2022 (Cost Category)**, Team of Bajaj Auto Ltd. 3 Wheeler Exports Divison
-* **Performance Ranking Group 1 (2023)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
-* **Performance Ranking Group 1 (2022)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
+* **Gold Prize at CII National Kaizen Competition 2022 (Cost Category)**, Team of Bajaj Auto Ltd. CVD Exports Divison
+* **Performance Ranking 1 (2023)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
+* **Performance Ranking 1 (2022)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
 * **Endurance Race Rank 9** Team Black Mambra Racing, NIT Rourkela, mBAJA SAE India 2019
   
 Skills
