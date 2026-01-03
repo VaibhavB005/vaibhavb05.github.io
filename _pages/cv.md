@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Advanced Manufacturing (Simulations), Technical University of Chemnitz, Germany, 2023-2026
+* M.Sc. in Advanced Manufacturing (Simulations), [Technical University of Chemnitz, Germany](https://www.tu-chemnitz.de/index.html.en), 2023-2026
   * Grades: 1.92/4
   * Relevant Coursework: Applied Modelling and Simulation in Solid Mechanics, Composite Hybrid Structures, Additive Manufacturing, Digital manufacturing (Digital twins)
   * Thesis: Development of Parametrizable Meshing Algorithm for Simulation of FuelCells in OpenFOAM
-  * Advisors: Prof. Thomas von Umwerth, Marcus Schaedler
-* B.Tech. in Mechanical Engineering, National Institue of Technology Rourkela, India, 2017-2021
+  * Advisors: [Prof. Thomas von Umwerth](https://www.tu-chemnitz.de/projekt/alf/content.php?view=mitarbeiter_details&id=1&lang=en), [Marcus Schaedler](https://www.tu-chemnitz.de/projekt/alf/content.php?view=mitarbeiter_details&id=47&lang=en)
+* B.Tech. in Mechanical Engineering, [National Institue of Technology Rourkela, India](https://www.nitrkl.ac.in/), 2017-2021
   * Grades: 7.9/10 (German scale: 2/4)
   * Relevant Coursework: Solid Mechanics, Fluid Kinematics and Dynamics, Hydraulic Machines, Finite Element Analysis, Computational Fluid Dynamics, Physical Metallurgy
   * Thesis: and-gap enhancement of Mechanical Metamaterial for low-frequency vibration attenuation
-  * Advisor: Prof. P.S. Balaji
+  * Advisor: [Prof. P.S. Balaji](https://scholar.google.co.in/citations?user=hz8jnooAAAAJ&hl=en)
 
 Work experience
 ======
