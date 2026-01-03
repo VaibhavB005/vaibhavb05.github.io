@@ -71,7 +71,7 @@ Work experience
   * Development of Mass-Spring-Damper model for Vibration reduction of Gripper-Actuator Mechanism (Ball Screw-drive)
   * Supervisor: Marcel Lorenz, [Dr. Uwe Frieß](https://publica.fraunhofer.de/entities/person/953ee7e7-f00e-483e-8e8b-e38bade92b83)
 
-* **[Hörmann Vehicle Engineering GmbH, Chemnitz](https://www.hoermann-engineering.de/de/innovationen/alternative-antriebssysteme)**
+* **[Hörmann Vehicle Engineering GmbH](https://www.hoermann-engineering.de/de/innovationen/alternative-antriebssysteme)**, Chemnitz
 <br> **Simulation Intern**, 08/2024 - 10/2024 - Full-time
 <br> **Working Student**,  11/2024 - 09/2025 - Part-time
   * Designed a cooling system for hhydrogen-powered Agricultural vehicle in project RAHD
