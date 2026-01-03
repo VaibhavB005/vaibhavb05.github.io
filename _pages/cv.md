@@ -78,7 +78,7 @@ Work experience
   * Designed and optimised a cooligns system for Primary and Auxiliary component circuits
   * Supervisor: [Manuel Mehrkens](https://www.linkedin.com/in/manuel-mehrkens-7a02b0176/?originalSubdomain=de)
  
-*  **[Bajaj Auto Ltd.](https://www.bajajauto.com/)**, Waluj, India
+* **[Bajaj Auto Ltd.](https://www.bajajauto.com/)**, Waluj, India
   <br> **Assistant Manager**, 05/2022 - 09/2023 - Full-time
   <br> **Graduate Engineer**, 09/2021 - 04/2022 - Full-time
   * Managed Export and Dispatch projects and operations for more than 30 countries in Commercial Vehicle Division.
