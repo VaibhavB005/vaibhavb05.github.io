@@ -26,6 +26,9 @@ Honors and Awards
 ======
 * **Georgius-Agricola-Leistungsstipendium (Scholarship)**, Saxon State Ministry for Science, Culture and Tourism (Winter Semester 2025-2026)
 * **Gold Prize at CII National Kaizen Competition 2022 (Cost Category)**, Team of Bajaj Auto Ltd. 3 Wheeler Exports Divison
+* **Performance Ranking Group 1 (2023)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
+* **Performance Ranking Group 1 (2022)** Bajaj Auto Ltd. Commercial Vehicle Division(CVD) - Annual Performance Ranking
+* **Endurance Race Rank 9** Team Black Mambra Racing, NIT Rourkela, mBAJA SAE India 2019
   
 Skills
 ======
@@ -33,14 +36,7 @@ Skills
   * FEA (Structural, Thermal, Harmonic, Electrothermo-mechanical)
   * CFD (Fluid Structure interaction, Internal flows, Conjugate Heat Transfer)
   * Multiphase (Volume of Fluid (VOF), Eulerian-Eulerian, Discrete Phase Modelling (DPM), Eulerian Thin Film Modelling (ETFM))
-* **Softwares:**
-  * ANSYS Mechanical
-  * ANSYS Fluent
-  * ANSYS CFX
-  * OpenFOAM
-  * COMSOL Multiphysics
-  * Simulink
-  * Hyperworks (Hypermesh, OptiStruct)
+* **Softwares:** ANSYS Mechanical, ANSYS Fluent, ANSYS CFX, OpenFOAM, COMSOL Multiphysics, Simulink, Hyperworks (Hypermesh, OptiStruct)
 * **CAD & Design:** Solidworks, Autodesk Fusion 360, PTC CREO, Salome  
 * **Programming:** Python (Numpy, matplotlib, Pandas), MATLAB, C++ 
 
