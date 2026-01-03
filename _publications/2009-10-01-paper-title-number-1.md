@@ -9,6 +9,11 @@ venue: 'The 4th Advanced Manufacturing Student Conference (AMSC24) Chemnitz, Ger
 
 paperurl: 'https://doi.org/10.51382/2748-9337_i04'
 
-citation: 'Bamnote, Vaibhav (2024). &quot;Evolution of V2X with the onset of 6G: Technologies, Challenges, and Opportunities.&quot; <i>The 4th Advanced Manufacturing Student Conference (AMSC24) Chemnitz, Germany</i>. 1(1).'
+citation: 'Bamnote, Vaibhav (2024). &quot;Evolution of V2X with the onset of 6G: Technologies, Challenges, and Opportunities.&quot; <i>The 4th Advanced Manufacturing Student Conference (AMSC24) Chemnitz, Germany</i>. 4(2024).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract:
+With the evolution of autonomous vehicles in past decade, significant research and implementation has been achieved in
+autonomous mobility industry. With focus on user experience improvement for drivers and pedestrians, Data safety has also been a
+point of interest in recent research in autonomous vehicles due to interconnectedness of vehicles with each other and external infra-
+structure. In this article, we review recent developments in the field of vehicle connectedness, user cases, benefits, security and safety
+challenges, 6G solutions, and future research opportunities
