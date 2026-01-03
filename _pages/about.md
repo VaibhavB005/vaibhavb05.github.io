@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-👨🏻‍💻 I'm a Research Assitant at Fraunhofer ENAS.
+👨🏻‍💻 I'm a Research Assistant at Fraunhofer ENAS.
 
 🔬 My research interests are in the field Simulations(I mean all of it, Structures to Thermals to Electrothermals to Multiphase)!
 
@@ -19,7 +19,7 @@ redirect_from:
 
 ## 👨🏻‍🔬 Professional Experience
 
-Currently, I am working as a **Research Assitant** at Fraunhofer ENAS exploring how to develop an *algorithm to automate parametric geometry creation and meshing of power electronics modules*.
+Currently, I am working as a **Research Assistant** at Fraunhofer ENAS exploring how to develop an *algorithm to automate parametric geometry creation and meshing of power electronics modules*.
 
 Recently, I developed a parametrizable meshing algorithm using Python for FuelCell stacks to perform Multiphase Simulations in OpenFOAM as a part of my Thesis. 
 * The algorithm lets us generate the FuelCell stack geometry solely based on basic geomtric Inputs provided and uses the generated geometry to create adaptive Mesh.
