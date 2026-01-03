@@ -27,5 +27,5 @@ During my Masters I have additionally worked on diverse projects in the field of
 (HVE GmbH) and many more independent projects to explore wide range of Simulation driven Engineering.
 
 
-I have submitted all of the publishable Projects in my portfolio.
-Feel free to look at my portfolio.
+I have submitted all of the publishable Projects in my [portfolio](https://vaibhavb005.github.io/portfolio/).
+Feel free to explore!!
